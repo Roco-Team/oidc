@@ -1,4 +1,4 @@
-<b><center>RsL-OIDC <font size="3">v0.1β</font></center></b>
+<b><center>aaibOIDC <font size="3">v0.1β</font></center></b>
 ---
 <center>一个给国内小站长提供的轻量OIDC服务</center><br>
 <center><img src="https://files.srowo.cn/img/aaib.png" alt='AuthenticAIBullshit' width='30%'/></center>
